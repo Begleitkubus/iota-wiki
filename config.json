@@ -59,6 +59,11 @@
     {
       "repo": "https://github.com/iotaledger/integration-services",
       "staticPath": "./documentation/static"
+    },
+    {
+      "repo": "https://github.com/dr-electron/zebra-iota-edge-sdk",
+      "checkoutParams": ["--branch docs/docusaurus"],
+      "staticPath": "./docs/static"
     }
   ]
 }
